@@ -10,9 +10,7 @@ For the past seven years I have moved to Poland, Brazil, Germany and now The Net
 
 During my free time I swim, surf, run, bike, read, travel, and play the guitar or the ukulele.
 
-[Resume](resume).
-
-
-### Small image
-
 ![](juan.png)
+
+
+[Resume](resume) [Hobbies](hobbies)
