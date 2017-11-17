@@ -13,4 +13,5 @@ During my free time I **swim, surf, run, bike, read, travel, and play the guitar
 ![](juan.png)
 
 
-[Resume](resume) [Hobbies](hobbies)
+[Resume](resume) 
+[Hobbies](hobbies)
