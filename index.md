@@ -10,7 +10,7 @@ For the past seven years I have moved to **Poland**, **Brazil**, **Germany** and
 
 During my free time I **swim**, **surf**, **run**, **bike**, **read**, **travel**, and **play the guitar or the ukulele**.
 
-![](cv1_0P5x.jpg)
+![](cv1_0P25x.jpg)
 
 
 [Resume](resume)
