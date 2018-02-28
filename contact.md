@@ -6,7 +6,7 @@ layout: default
 
 Contact me! at jdvalenciapayan [at] gmail [dot] com
 
-Visit me! in the Flux Building Room 4.173
+Visit me! in the Flux Building Room 4.076
 Groene Loper 19, 5612 AZ Eindhoven, The Netherlands
 Eindhoven University of Technology
 
