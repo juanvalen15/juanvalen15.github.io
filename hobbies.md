@@ -12,7 +12,7 @@ During my free time ...
 ![](hb4_0P33x.jpg)
 ![](hb5_0P5x.jpg)
 ![](hb6_0P5x.jpg)
-![](hb7_0P33x.jpg)
+![](hb7_0P25x.jpg)
 ![](hb8_0P33x.jpg)
 
 [back](./)
