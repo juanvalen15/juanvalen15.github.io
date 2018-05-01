@@ -6,13 +6,13 @@ layout: default
 
 During my free time ...
 
-![](hb1_0P5x.jpg)
-![](hb2_0P33x.jpg)
-![](hb3_0P5x.jpg)
-![](hb4_0P33x.jpg)
-![](hb5_0P33x.jpg)
-![](hb6_0P5x.jpg)
-![](hb7_0P25x.jpg)
-![](hb8_0P25x.jpg)
+![](hb1.jpg)
+![](hb2.jpg)
+![](hb3.jpg)
+![](hb4.jpg)
+![](hb5.jpg)
+![](hb6.jpg)
+![](hb7.jpg)
+![](hb8.jpg)
 
 [back](./)
