@@ -40,8 +40,8 @@ layout: default
 
 - **Hardware emulation of quantum fourier transform**. IEEE Second Latin American Symposium on Circuits and Systems (LASCAS), 2011.
 
-- **Diseño de un Procesador de Imágenes Comandado por Voz**. XVI Simposio de Tratamiento de Señales, Imágenes y Visión Artificial – STSIVA 2011.
+- **Diseño de un Procesador de Imágenes Comandado por Voz**. <span style="color:blue">Juan Valencia, Esteban Oliveros, Hernando Mosquera, John Espinosa, Humberto Loaiza</span>. XVI Simposio de Tratamiento de Señales, Imágenes y Visión Artificial – STSIVA 2011.
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
+
 
 [back](./)
