@@ -42,5 +42,6 @@ layout: default
 
 - **Diseño de un Procesador de Imágenes Comandado por Voz**. XVI Simposio de Tratamiento de Señales, Imágenes y Visión Artificial – STSIVA 2011.
 
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
 [back](./)
