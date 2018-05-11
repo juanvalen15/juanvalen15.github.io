@@ -20,7 +20,7 @@ layout: default
 
 ### GRADUATION WORKS
 
-- **Master's thesis in Electrical Engineering** Power Line Communications Channel Characterisation: Indoor-case. <span style="color:blue">Moises Ribeiro</span>.
+- **Master's thesis in Electrical Engineering** Power Line Communications Channel Characterisation: Indoor-case. Supervisor: <span style="color:blue">Moises Ribeiro</span>.
 
 - **Bachelor's thesis in Electronics Engineering** Emulation of the Quantum Grover's algorithm on FPGAs. Supervisors: <span style="color:blue">John Espinosa, Jaime Velasco</span>.
 
