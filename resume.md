@@ -28,19 +28,20 @@ layout: default
 
 ### PUBLICATIONS
 
-- **NOC-based multi-processor architecture for mixed time-criticality applications**. Handbook of Hardware/Software Codesign, Springer 2017.
+- **NOC-based multi-processor architecture for mixed time-criticality applications**. <span style="color:blue">Kees Goossens, Martijn Koedam, Andrew Nelson, Shubhendu Sinha, Sven Goossens, Yonghui Li, Gabriela Breaban, Reinier van Kampenhout, Rasool Tavakoli, Juan Valencia, Hadi Ahmadi Balef, Benny Akesson, Sander Stuijk, Marc Geilen, Dip Goswami, Majid Nabi</span>. Handbook of Hardware/Software Codesign, Springer 2017.
 
-- **Resource utilization and quality-of-control trade-off for a composable platform**. Proceedings of the 2016 Conference on Design, Automation & Test in Europe 2016.
+- **Resource utilization and quality-of-control trade-off for a composable platform**. <span style="color:blue">Juan Valencia, Eelco van Horssen, Dip Goswami, Maurice Heemels, Kees Goossens</span>. Proceedings of the 2016 Conference on Design, Automation & Test in Europe 2016.
 
-- **Composable platform-aware embedded control systems on a multi-core architecture**. Euromicro Conference on Digital System Design (DSD), 2015.
+- **Composable platform-aware embedded control systems on a multi-core architecture**. <span style="color:blue">Juan Valencia, Dip Goswami, Kees Goossens</span>. Euromicro Conference on Digital System Design (DSD), 2015.
 
-- **Cooperative power line communication: Analysis of brazilian in-home channels**. 18th IEEE International Symposium on Power Line Communications and its Applications (ISPLC), 2014.
+- **Cooperative power line communication: Analysis of brazilian in-home channels**. <span style="color:blue">Juan Valencia, Thiago Oliveira, Moises Ribeiro</span>. 18th IEEE International Symposium on Power Line Communications and its Applications (ISPLC), 2014.
 
-- **Statistical analysis of Brazilian in-home PLC channels: First results**. 18th IEEE International Symposium on Power Line Communications and its Applications (ISPLC), 2014.
+- **Statistical analysis of Brazilian in-home PLC channels: First results**. <span style="color:blue">Juan Valencia, Thiago Oliveira, Fernando Andrade, Moises Ribeiro</span>. 18th IEEE International Symposium on Power Line Communications and its Applications (ISPLC), 2014.
 
-- **Hardware emulation of quantum fourier transform**. IEEE Second Latin American Symposium on Circuits and Systems (LASCAS), 2011.
+- **Hardware emulation of quantum fourier transform**. <span style="color:blue">José Rivera, Álvaro Caicedo, Juan Valencia, John Espinosa, Jaime Velasco</span>. IEEE Second Latin American Symposium on Circuits and Systems (LASCAS), 2011.
 
 - **Diseño de un Procesador de Imágenes Comandado por Voz**. <span style="color:blue">Juan Valencia, Esteban Oliveros, Hernando Mosquera, John Espinosa, Humberto Loaiza</span>. XVI Simposio de Tratamiento de Señales, Imágenes y Visión Artificial – STSIVA 2011.
+
 
 
 
