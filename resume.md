@@ -6,15 +6,17 @@ layout: default
 
 ### POSITIONS
 
-- **MAY 2014 (Eindhoven - The Netherlands)** Beginning PhD in Electrical Engineering with emphasis in Embedded and Control Systems at Technische Universiteit Eindhoven.
+- **JAM 2019 (Zuidland - The Netherlands)** Working as a system engineer at Dutch Ophthalmic Research Center (DORC).
+
+- **MAY 2014 (Eindhoven - The Netherlands)** Beginning PhD in electrical engineering with emphasis in embedded and control systems at Technische Universiteit Eindhoven.
 
 - **SEP 2012 (Leonberg - Germany)** Worked at Robert Bosch GmbH on FPGA-based automotive video applications.
 
-- **SEP 2011 (Juiz de Fora - Brazil)** Pursuing masters degree in Electrical Engineering with special research on Power Line Communications at Universidade Federal de Juiz de Fora.
+- **SEP 2011 (Juiz de Fora - Brazil)** Pursuing masters degree in electrical engineering with special research on Power Line Communications (PLC) at Universidade Federal de Juiz de Fora.
 
-- **JUN 2010 (Szczecin - Poland)** Research student in Electronics Engineering at Zachodniopomorski Uniwersytet Technologiczny w Szczecinie.
+- **JUN 2010 (Szczecin - Poland)** Research student in electronics engineering at Zachodniopomorski Uniwersytet Technologiczny w Szczecinie.
 
-- **AUG 2005 (Cali - Colombia)** Studying Electronics Engineering at Universidad del Valle
+- **AUG 2005 (Cali - Colombia)** Studying electronics engineering at Universidad del Valle.
 
 
 
