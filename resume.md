@@ -6,7 +6,7 @@ layout: default
 
 ### POSITIONS
 
-- **JAN 2019 (Zuidland - The Netherlands)** Working as a system engineer at Dutch Ophthalmic Research Center (DORC).
+- **JAN 2019 (Zuidland - The Netherlands)** Working at Dutch Ophthalmic Research Center (DORC) on medical applications.
 
 - **MAY 2014 (Eindhoven - The Netherlands)** Beginning PhD in electrical engineering with emphasis in embedded and control systems at Technische Universiteit Eindhoven.
 
