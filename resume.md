@@ -30,7 +30,7 @@ layout: default
 
 ### PUBLICATIONS
 
-- **Comparing platform-aware control design flows for composable and predictable TDM-based execution platforms [Accepted]**. <span style="color:blue">Juan Valencia, Dip Goswami, Kees Goossens</span>. ACM Transactions on Design Automation of Electronic Systems (TODAES), 2019.
+- **Comparing platform-aware control design flows for composable and predictable TDM-based execution platforms**. <span style="color:blue">Juan Valencia, Dip Goswami, Kees Goossens</span>. ACM Transactions on Design Automation of Electronic Systems (TODAES), 2019.
 
 - **NOC-based multi-processor architecture for mixed time-criticality applications**. <span style="color:blue">Kees Goossens, Martijn Koedam, Andrew Nelson, Shubhendu Sinha, Sven Goossens, Yonghui Li, Gabriela Breaban, Reinier van Kampenhout, Rasool Tavakoli, Juan Valencia, Hadi Ahmadi Balef, Benny Akesson, Sander Stuijk, Marc Geilen, Dip Goswami, Majid Nabi</span>. Handbook of Hardware/Software Codesign, Springer 2017.
 
