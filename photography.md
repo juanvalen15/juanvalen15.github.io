@@ -6,7 +6,7 @@ layout: default
 
 India
 
-![](drying@0,25x.jpg)
+![](drying@0,1x.jpg)
 ![](fishing@0,25x.jpg)
 ![](paddeling@0,25x.jpg)
 ![](sleepy@0,25x.jpg)
