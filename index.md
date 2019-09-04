@@ -11,7 +11,7 @@ For the past years I have moved to **Poland**, **Brazil**, **Germany**, where I 
 
 During my free time I like to sport (**swimming**, **running**, **cycling**), learn many new things (**reading**, **traveling**, **going to museum workshops**), and be creative (**playing the guitar or the ukulele**, **taking pictures**).
 
-![](cv1_0P25x.jpg)
+![](cv1_0P25x@0,75x.jpg)
 
 
 [Resume](resume)
