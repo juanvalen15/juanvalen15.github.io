@@ -4,24 +4,24 @@ layout: default
 
 # [](#header-1)Skills
 
-**Math**
-MATLAB script
-MATLAB Simulink
-MATLAB Stateflow
+### MATH
+- MATLAB script
+- MATLAB Simulink
+- MATLAB Stateflow
 
-**Programming languages**
-C
-Bash (exposure)
-Python (exposure)
+### Programming languages
+- C
+- Bash (exposure)
+- Python (exposure)
 
-**HW description languages**
-VHDL
-Verilog (exposure)
+### HW description languages
+- VHDL
+- Verilog (exposure)
 
-**FPGA development**
-ALTERA-Intel Quartus
-Xilinx ISE
-ModelSim
+### FPGA development
+- ALTERA-Intel Quartus
+- Xilinx ISE
+- ModelSim
 
 **Soft Processors**
 Nios II
