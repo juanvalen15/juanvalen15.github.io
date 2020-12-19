@@ -30,7 +30,7 @@ layout: default
 
 ### PUBLICATIONS
 
-- **Designing a controller with image-based pipelined sensing and additive uncertainties**. <span style="color:blue">Robinson Medina, Juan Valencia, Sander Stuijk, Dip Goswami, Twan Basten</span>. ACM Transactions on Cyber-Physical Systems (TCPS), 2019 [accepted].
+- **Designing a controller with image-based pipelined sensing and additive uncertainties**. <span style="color:blue">Robinson Medina, Juan Valencia, Sander Stuijk, Dip Goswami, Twan Basten</span>. ACM Transactions on Cyber-Physical Systems (TCPS), 2019.
 
 - **Comparing platform-aware control design flows for composable and predictable TDM-based execution platforms**. <span style="color:blue">Juan Valencia, Dip Goswami, Kees Goossens</span>. ACM Transactions on Design Automation of Electronic Systems (TODAES), 2019.
 

@@ -16,4 +16,5 @@ During my free time I like to sport (**swimming**, **running**, **cycling**), le
 
 [Resume](resume)
 [Hobbies](hobbies)
+[Wandering](photography)
 [Contact](contact)
