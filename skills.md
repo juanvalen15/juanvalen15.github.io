@@ -35,7 +35,7 @@ layout: default
 - OS: MS Windows, macOS, Linux Ubuntu
 - Editing/Presenting: MS Office, LaTeX
 - Mind maps: Xmind
-- Coding tools: Sublime, Xcode
+- Coding: Sublime, Xcode
 
 ### Scrum
 - JIRA
