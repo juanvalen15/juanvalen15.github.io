@@ -2,17 +2,9 @@
 layout: default
 ---
 
-# [](#header-1)Photos
+# [](#header-1)LEGO
 
-Kochi
-
-![](drying@0,1x.jpg)
-![](fishing@0,1x.jpg)
-![](paddeling@0,1x.jpg)
-
-Bangalore
-
-![](sleepy@0,1x.jpg)
+EV3 motor modeling 
 
 
 
