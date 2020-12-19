@@ -12,6 +12,8 @@ During my free time I like to be active by sporting (**swimming**, **running**, 
 ![](cv1_0P25x@0,75x.jpg)
 
 [Resume](resume)
+[Skills](skills)
 [Hobbies](hobbies)
 [Photos](photography)
+[LEGO](lego)
 [Contact](contact)
