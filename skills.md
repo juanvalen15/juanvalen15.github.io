@@ -28,8 +28,8 @@ layout: default
 - Bison (exposure)
 
 ### Soft Processors
-- Nios II: power line communications modem MAC layer prototyping
-- MicroBlaze: control application on multi-core platform
+- Nios II: for power line communications modem MAC layer prototyping
+- MicroBlaze: for control application on multi-core platform
 
 ### Office work and tools
 - OS: MS Windows, macOS, Linux Ubuntu

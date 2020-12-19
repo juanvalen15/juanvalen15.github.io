@@ -4,7 +4,12 @@ layout: default
 
 # [](#header-1)LEGO
 
-EV3 motor modeling 
+Small project to control the LEGO EV3 large motor.
+
+### EV3 motor model estimation using MATLAB Simulink
+
+### EV3 motor multi-rate control
+
 
 
 
