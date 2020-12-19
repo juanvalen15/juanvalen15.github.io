@@ -11,17 +11,21 @@ layout: default
 
 ### Programming languages
 - C: control application programming on multi-core platform with time predictable characteristics
-- Bash (exposure): scripting automation using linux
+- Bash (exposure): scripting for automation using linux
 - Python (exposure): scripting for machine-learning online course
 
 ### HW description languages
-- VHDL: for quantum computing emulation, video applications, and power line communications modem prototyping
+- VHDL: for quantum computing emulation, video applications, processor and compiler design
 - Verilog (exposure): for power line communications modem prototyping
 
 ### FPGA development
 - ALTERA-Intel Quartus
 - Xilinx ISE
 - ModelSim
+
+### Compiler design
+- Flex (exposure)
+- Bison (exposure)
 
 ### Soft Processors
 - Nios II: power line communications modem MAC layer prototyping
