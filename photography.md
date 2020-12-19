@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [](#header-1)Photography
+# [](#header-1)Photos
 
 Kochi
 
