@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# [](#header-1)Skills
+# [](#header-1)Tools
+I have divided by categories and listed the tools that I normally use.
 
 ### MATH
 - MATLAB script: to automate compilations and visualize results
@@ -31,7 +32,7 @@ layout: default
 - Nios II: for power line communications modem MAC layer prototyping
 - MicroBlaze: for control application on multi-core platform
 
-### Office work and tools
+### Office Work
 - OS: MS Windows, macOS, Linux Ubuntu
 - Editing/Presenting: MS Office, LaTeX
 - Mind maps: Xmind
