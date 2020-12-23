@@ -32,11 +32,10 @@ I have divided by categories and listed the tools that I normally use.
 - Nios II: for power line communications modem MAC layer prototyping
 - MicroBlaze: for control application on multi-core platform
 
-### Office Work
+### Office/Coding
 - OS: MS Windows, macOS, Linux Ubuntu
-- Editing/Presenting: MS Office, LaTeX
+- Editing/Presenting: MS Office, LaTeX, Sublime, Xcode
 - Mind maps: Xmind
-- Coding: Sublime, Xcode
 
 ### Scrum
 - JIRA
